@@ -1,6 +1,22 @@
 # aws-s3-file-upload-system
 Built a full-stack cloud application enabling file uploads and downloads using AWS S3, React frontend, and Node.js backend APIs.
 
+aws-s3-file-upload-system/
+│
+├── backend/
+│   ├── server.js
+│   ├── package.json
+│   └── .env.example
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   └── App.js
+│
+├── README.md
+├── .gitignore
+└── LICENSE (optional)
 Prerequisites
 Before we begin, make sure you have the following prerequisites in place:
 
