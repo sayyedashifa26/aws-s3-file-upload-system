@@ -42,3 +42,7 @@ Built with:
 
 ```bash
 git clone https://github.com/yourusername/aws-s3-file-upload-system.git
+
+## 📢 Project Updates
+
+The progress and development process of this project were actively documented and shared on LinkedIn, showcasing the learning journey, implementation steps, and cloud integration experience.
